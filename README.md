@@ -1,9 +1,8 @@
 # tecnico-em-segurança-do-trabalho-offshore--
 engenheiro de segurança do trabalho
-julia medina
-izabelly barros dos santos martins
-yasmin 
-Se você está fazendo um trabalho sobre a profissão de Técnico em Segurança do Trabalho na área de petróleo e gás, inclusive em plataformas no mar (offshore), pode organizar assim:
+julia medina cansado de oliveira,
+izabelly barros dos santos martins,
+yasmin gabrielle das graças
 
 🛢️ Área: petróleo no mar
 
