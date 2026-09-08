@@ -2,10 +2,10 @@
 *Curso* Segurança do Trabalho
 *Tema*|Técnico em Segurança do Trabalho Offshore
 *Local|laboratório|108|
-👥️integrantes da equipe
-*Julia Medina Cansado De Oliveira 
-*Yasmin Gabrielle Das Graças 
-*Izabelly Barros Dos Santos Martins 
+###👥️integrantes da equipe
+• *Julia Medina Cansado De Oliveira 
+• *Yasmin Gabrielle Das Graças 
+• *Izabelly Barros Dos Santos Martins 
 *Mizael Souto
 
 🛢️ Área: petróleo no mar
