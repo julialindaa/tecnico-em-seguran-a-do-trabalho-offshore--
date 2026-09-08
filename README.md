@@ -1,5 +1,7 @@
-
-
+|📋*Informções Gerais*|📍*Detalhes*|
+*Curso* Segurança do Trabalho
+*Tema*|Técnico em Segurança do Trabalho Offshore
+*Local|la
 
 # tecnico-em-segurança-do-trabalho-offshore--
 engenheiro de segurança do trabalho
